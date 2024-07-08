@@ -47,13 +47,13 @@ pip install pandas numpy matplotlib seaborn fbprophet scikit-learn
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nyc-311-calls-analysis.git
+git clone https://github.com/Anikait10/NYC-311-Calls.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd nyc-311-calls-analysis
+cd nyc-311-calls
 ```
 
 3. Open the Jupyter notebook:
@@ -72,10 +72,6 @@ jupyter notebook nyc_311_calls.ipynb
 ## Conclusion
 
 This analysis of NYC 311 calls provides valuable insights into the types of issues reported by residents and helps in understanding trends over time. The forecasting model can be used to anticipate future service requests, aiding in better resource allocation and management.
-
-## Author
-
-Anikait Arun Chavan
 
 ## License
 
